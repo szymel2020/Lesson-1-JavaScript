@@ -1,2 +1,1 @@
-Lesson 1 JavaScript
-Lesson 1 JavaScript
+This is only Lesson about JavaScript.
